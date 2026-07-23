@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "geometrydashontop.aternos.me",
+    "ip": "geometrydashontop.aternos.me:18868",
     "port": 18868,
     "version": "",
     "try-creative": false
