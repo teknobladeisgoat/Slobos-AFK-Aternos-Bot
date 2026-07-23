@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gefoxxs-NUe8.aternos.me:39359",
+    "ip": "gefoxxs-NUe8.aternos.me",
     "port": 39359,
     "version": "",
     "try-creative": false
